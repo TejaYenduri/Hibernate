@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate-distribution-3.3.1.GA/lib/required/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate-distribution-3.3.1.GA/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate-distribution-3.3.1.GA/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate-distribution-3.3.1.GA/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/hibernate-distribution-3.3.1.GA/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/apps/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/apps/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/slf4j-api-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/PammuTeha/Documents/Development/mysql-connector-java-5.1.23/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
